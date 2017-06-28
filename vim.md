@@ -1,8 +1,12 @@
 # vim notes
 
 - list all running scripts
-    :scriptnames
+
+      :scriptnames
 - open and edit current vimrc
-    :e $MYVIMRC
+      
+      :e $MYVIMRC
 - display current file path
-    CTRL + G
+    
+      CTRL + G
+- vim configuration helper (www.vimconfig.com)
